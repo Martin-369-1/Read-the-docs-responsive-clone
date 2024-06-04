@@ -1,0 +1,125 @@
+
+
+
+#sign-up-button{
+    background-color: #e0e1e2;
+    font-weight: 600;
+    color: #5a5a5a;
+}
+
+#sign-up-button:hover{
+    color: black;
+    background-color: #cacbcd;
+}
+
+.navbar-dropdown-title{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.button-custom{
+    width: fit-content;
+    height: 40px;
+    
+}
+
+#button-color{
+    background-color: #0993af;
+}
+
+#button-color:hover{
+    background-color: #00839d;
+}
+
+.card1{
+    background-color: #767676;
+
+}
+
+.card2{
+    background-color: #252a31;
+
+}
+
+.card3{
+    background-color: #6435c9;
+
+}
+
+.title1{
+    font-size: 17.14px;
+    font-family: Lato, Helvetica Neue, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: none;
+    color: #252a31;
+}
+
+.subtitle1{
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #252a31;
+}
+
+.link1{
+    color: #0088ac;
+}
+
+.link1:hover{
+     color: #00829c;
+}
+
+.paid-plan-image{
+    float: left;
+    margin-right: 10px;
+}
+
+.paid-plan-text{
+    font-size: 16px;
+    color: #7835c9;
+    
+}
+
+.feature-button{
+    background: #6435c9;
+    border:0;
+    
+}
+
+.line-try{
+    width: 50%;
+    
+}
+
+.line-try-line{
+    border: 1px solid gray;
+}
+
+.image-no{
+    width: 30px;
+    height: 35px;
+    object-fit: cover;
+}
+
+.footer_{
+    background-color: #252a31;
+}
+
+.footer-title{
+    font-weight: 600;
+    font-size: .875em;
+    color: white;
+    
+}
+
+.footer-sentence{
+    color: #babbbe;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+.footer-sentence:hover{
+    color: white;
+}
+
+
